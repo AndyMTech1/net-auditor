@@ -1,0 +1,3 @@
+# Ignore saved local network scan reports
+*.txt
+__pycache__/
